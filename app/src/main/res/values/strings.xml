@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alexa</string>
+    <string name="a11y_desc">Alexa আপনার কথামতো স্ক্রিন পড়ে, ট্যাপ করে, টাইপ করে ও অ্যাপ নিয়ন্ত্রণ করে।</string>
+</resources>
